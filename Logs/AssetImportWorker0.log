@@ -1,0 +1,2236 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19041.867; Version 2004; 64bit' Language: 'ko' Physical Memory: 4011 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Administrator/Desktop/unity(게임실습)/Anima2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+9847
+Successfully changed project path to: C:/Users/Administrator/Desktop/unity(게임실습)/Anima2D
+C:/Users/Administrator/Desktop/unity(게임실습)/Anima2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 300.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Administrator/Desktop/unity(게임실습)/Anima2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   
+    VRAM:     2005 MB
+    Driver:   25.20.100.6518
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56196
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006425 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.066 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006295 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 70.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.618 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.17 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1968 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.7 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2407.
+Total: 3.852300 ms (FindLiveObjects: 0.361200 ms CreateObjectMapping: 0.117600 ms MarkObjects: 3.162200 ms  DeleteObjects: 0.209500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd962882a6fab6246e7404678aa6c20b6') in 0.363843 seconds
+  Import took 0.368973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 444.741693 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccae6019f2850dcbf6a2adcd17771e20') in 0.045898 seconds
+  Import took 0.053328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 831.117385 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c042f93ee0d31755e8bc2acdc776745') in 0.061038 seconds
+  Import took 0.067316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.579033 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3070da4f1da27c5fd0a86e16a82b32f2') in 0.075686 seconds
+  Import took 0.083135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.169237 seconds.
+  path: Assets/수룡이_6.asset
+  artifactKey: Guid(f592f3897c4fa2745b2927ad95300ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_6.asset using Guid(f592f3897c4fa2745b2927ad95300ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3075f0be8966c32f02d11e77ba5ca49e') in 0.316130 seconds
+  Import took 0.323934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/수룡이_1.asset
+  artifactKey: Guid(1d552aa11797e9e40b0496f2c8803b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_1.asset using Guid(1d552aa11797e9e40b0496f2c8803b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280bbc684804413a6c934dab3df04509') in 0.109061 seconds
+  Import took 0.117622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/수룡이_5.asset
+  artifactKey: Guid(15d494833735ec448a7aa01d80479b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_5.asset using Guid(15d494833735ec448a7aa01d80479b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949995a14616e9d8e368a6ffed97986e') in 0.055290 seconds
+  Import took 0.068403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/수룡이_4.asset
+  artifactKey: Guid(957f76da76a11224ba28819940649aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_4.asset using Guid(957f76da76a11224ba28819940649aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11afc56356852c7b5d40bccb608825fd') in 0.067844 seconds
+  Import took 0.080216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/수룡이_2.asset
+  artifactKey: Guid(ce037664cd9ec734ea945bfdda88f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_2.asset using Guid(ce037664cd9ec734ea945bfdda88f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0fdc58c8c73dd189fc54f5ab5783328') in 0.061241 seconds
+  Import took 0.078241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/수룡이_0.asset
+  artifactKey: Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_0.asset using Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7e84b803ad4467d4b5ff2ae2eba9ff') in 0.074902 seconds
+  Import took 0.086948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/수룡이_3.asset
+  artifactKey: Guid(76cb7f97a59087f499bb5389bb8961a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_3.asset using Guid(76cb7f97a59087f499bb5389bb8961a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd01129ffc9342afaf6c4931abca9b37') in 0.084243 seconds
+  Import took 0.108405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 976.772888 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe6bad62c8f405ac3cb52b8729e2c7a6') in 0.100792 seconds
+  Import took 0.124413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/수룡이_0.asset
+  artifactKey: Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_0.asset using Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c300d31f43fce6ee5b25fe4899b06a2') in 0.102795 seconds
+  Import took 0.110816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.644283 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb8677b7525bb036425ebc2ca7974d79') in 0.071793 seconds
+  Import took 0.079526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/수룡이_0.asset
+  artifactKey: Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_0.asset using Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5edf193d3702c7acb4cb2c1c86b90e0') in 0.036468 seconds
+  Import took 0.044421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.502964 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '647063fa8b1628edcd56ff095a97c4a2') in 0.079952 seconds
+  Import took 0.087934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.473661 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b727aa64cc27aa2464677f1e2ea407c6') in 0.071317 seconds
+  Import took 0.078437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/수룡이_0.asset
+  artifactKey: Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_0.asset using Guid(dfed765e48c7a5742ac103be64c526fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8c79cf6b2d3bf8c6b6241377ff403a') in 0.034418 seconds
+  Import took 0.040400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.753270 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af02a5c5a19d92a15e87b42ad4c1f673') in 0.083883 seconds
+  Import took 0.098211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/수룡이_1.asset
+  artifactKey: Guid(1d552aa11797e9e40b0496f2c8803b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_1.asset using Guid(1d552aa11797e9e40b0496f2c8803b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aece5afe9f9a8046c1f1562ba3d49dfe') in 0.023658 seconds
+  Import took 0.029174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.406373 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d4d2a202ebbc1db5b0e45007f52b65') in 0.103168 seconds
+  Import took 0.111295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005807 seconds.
+  path: Assets/수룡이_1.asset
+  artifactKey: Guid(1d552aa11797e9e40b0496f2c8803b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_1.asset using Guid(1d552aa11797e9e40b0496f2c8803b32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db6e8380b971292c46631cfef4f35d0a') in 0.025827 seconds
+  Import took 0.039803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.385535 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27deafd3521347e58d76db7ba10ac2c2') in 0.069231 seconds
+  Import took 0.075402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/수룡이_2.asset
+  artifactKey: Guid(ce037664cd9ec734ea945bfdda88f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_2.asset using Guid(ce037664cd9ec734ea945bfdda88f083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffcb9a841887d267f1c93f18bdc5914') in 0.030824 seconds
+  Import took 0.041285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.858071 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b219e6cf773862a0f25f8af82babece') in 0.073927 seconds
+  Import took 0.080133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/수룡이_3.asset
+  artifactKey: Guid(76cb7f97a59087f499bb5389bb8961a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_3.asset using Guid(76cb7f97a59087f499bb5389bb8961a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2676aaf52b7be78a98b00df4cb68243') in 0.023745 seconds
+  Import took 0.030050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.738133 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9e19890f5ea89717823eb28f8b50c4') in 0.192285 seconds
+  Import took 0.207164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/수룡이_3.asset
+  artifactKey: Guid(76cb7f97a59087f499bb5389bb8961a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_3.asset using Guid(76cb7f97a59087f499bb5389bb8961a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4b70e3bf7b748c8a1f8f567b058948') in 0.027054 seconds
+  Import took 0.038245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.847393 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7129798cf07e56d4810a4fc3a1a2ae7') in 0.069124 seconds
+  Import took 0.081707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/수룡이_4.asset
+  artifactKey: Guid(957f76da76a11224ba28819940649aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_4.asset using Guid(957f76da76a11224ba28819940649aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e40919cd45c587d0f6e18c10b4ce4d') in 0.027118 seconds
+  Import took 0.033727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.871932 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73d0e9ec8b76fb6f368e0dedad8ab51') in 0.054490 seconds
+  Import took 0.068443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/수룡이_5.asset
+  artifactKey: Guid(15d494833735ec448a7aa01d80479b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_5.asset using Guid(15d494833735ec448a7aa01d80479b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c37c26e42848f260124769aeba3378') in 0.021546 seconds
+  Import took 0.029141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.261208 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05c2b46a632e29985e760bafa8dfc65') in 0.074804 seconds
+  Import took 0.087835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/수룡이_6.asset
+  artifactKey: Guid(f592f3897c4fa2745b2927ad95300ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이_6.asset using Guid(f592f3897c4fa2745b2927ad95300ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e977bbdd552b9d9ad6fd359cfa6e2f') in 0.043128 seconds
+  Import took 0.050183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.054357 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd47a2cde112f952a034493ae069d13d') in 0.077707 seconds
+  Import took 0.082990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 676.782719 seconds.
+  path: Assets/수룡 1.controller
+  artifactKey: Guid(a15407e5fe8a2434ea97857f61654858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡 1.controller using Guid(a15407e5fe8a2434ea97857f61654858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7636667cb8738217ef939ed324f4d996') in 0.252434 seconds
+  Import took 0.261415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.267471 seconds.
+  path: Assets/수룡.controller
+  artifactKey: Guid(8aa8c4bbb6ffd1747a51aff28d100be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡.controller using Guid(8aa8c4bbb6ffd1747a51aff28d100be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aecee3198c2e8cebce4da442e2a84d4') in 0.024154 seconds
+  Import took 0.029883 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.045 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1959 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.6 MB.
+System memory in use after: 95.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2445.
+Total: 6.960300 ms (FindLiveObjects: 0.389100 ms CreateObjectMapping: 0.190200 ms MarkObjects: 6.045300 ms  DeleteObjects: 0.333100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.852693 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701fcfdf3ea240d3cf7f74f277d70ddd') in 0.171733 seconds
+  Import took 0.179345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6de7e346329a7d188c6d97280dadc2b') in 0.054956 seconds
+  Import took 0.059106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 643.300137 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47cf443bddc682ac2de11ea429897ce') in 0.027455 seconds
+  Import took 0.033563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.795189 seconds.
+  path: Assets/playerController.cs
+  artifactKey: Guid(654336c1909d28b4cbec61d676f25e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/playerController.cs using Guid(654336c1909d28b4cbec61d676f25e66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8efda2d907b4347b2f137188b7343b') in 0.396653 seconds
+  Import took 0.416715 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007994 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.263 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2450.
+Total: 2.632100 ms (FindLiveObjects: 0.242500 ms CreateObjectMapping: 0.111300 ms MarkObjects: 2.153100 ms  DeleteObjects: 0.123800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 478.655917 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b9acf30897129b074261fb09fa744e') in 2.077117 seconds
+  Import took 2.932483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003329 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121eaa8ff34e6a20f7105a663d83582d') in 0.145377 seconds
+  Import took 0.246331 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.718198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.857 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2454.
+Total: 11.835600 ms (FindLiveObjects: 1.519900 ms CreateObjectMapping: 0.132600 ms MarkObjects: 9.607500 ms  DeleteObjects: 0.573800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 572.751533 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b750f30c63f6e654fc71312da84de834') in 0.155258 seconds
+  Import took 0.165204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001438 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8709751b9e47b034630f6239310e8bdb') in 0.100884 seconds
+  Import took 0.108086 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.027247 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2458.
+Total: 3.268100 ms (FindLiveObjects: 0.380300 ms CreateObjectMapping: 0.161400 ms MarkObjects: 2.115300 ms  DeleteObjects: 0.608900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.465216 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9d77bbd7e9611af36fbd0641f9a4c2') in 0.092136 seconds
+  Import took 0.098879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eaac5797dda6b766dc0bf634b21e144') in 0.074059 seconds
+  Import took 0.079639 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008206 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.262 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2462.
+Total: 6.455600 ms (FindLiveObjects: 1.286300 ms CreateObjectMapping: 0.332000 ms MarkObjects: 4.584500 ms  DeleteObjects: 0.250400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.747856 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c09302149274000ce38f96eaffe977') in 0.331317 seconds
+  Import took 0.345809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04999685fc49353b9461eb386d52d17d') in 0.107113 seconds
+  Import took 0.116408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.514 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2466.
+Total: 22.778900 ms (FindLiveObjects: 16.170000 ms CreateObjectMapping: 0.255900 ms MarkObjects: 6.068100 ms  DeleteObjects: 0.282200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.265082 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e91cfed3e27399deae8bdc38ff18da') in 0.286253 seconds
+  Import took 0.293154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb0152d562e1200a5744ab297727cd9') in 0.082746 seconds
+  Import took 0.108108 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002679 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.108 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2470.
+Total: 3.505700 ms (FindLiveObjects: 0.446600 ms CreateObjectMapping: 0.127100 ms MarkObjects: 2.104600 ms  DeleteObjects: 0.825400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.432993 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e28f3f36dfab87e44b59a7ce9510a1') in 0.099274 seconds
+  Import took 0.104148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f58eae3020799b5d2b4b16eb177c30') in 0.069486 seconds
+  Import took 0.075746 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004204 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.046 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2474.
+Total: 17.522500 ms (FindLiveObjects: 1.358500 ms CreateObjectMapping: 0.586700 ms MarkObjects: 11.871800 ms  DeleteObjects: 3.699800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.735025 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bff1ee4bda5606bdc5110028fd359e8') in 0.291537 seconds
+  Import took 0.310639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001038 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b5ce4801c7f8541028261a55deef32c') in 0.080145 seconds
+  Import took 0.091999 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011406 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2478.
+Total: 3.096100 ms (FindLiveObjects: 0.651600 ms CreateObjectMapping: 0.156900 ms MarkObjects: 2.076500 ms  DeleteObjects: 0.209100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.202683 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81f11f737b9647089a9eccea6147f0e') in 0.117374 seconds
+  Import took 0.125905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2c126ec73564409cea4196267c132d') in 0.068504 seconds
+  Import took 0.075315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.163 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2482.
+Total: 4.313400 ms (FindLiveObjects: 0.399700 ms CreateObjectMapping: 0.126600 ms MarkObjects: 2.811900 ms  DeleteObjects: 0.973200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.818161 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b66e4d6965585c27e939ad87c6e32a') in 0.156943 seconds
+  Import took 0.163036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52eb9e36f099e0fbb6e3247a33fc332a') in 0.070937 seconds
+  Import took 0.077451 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.496 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2486.
+Total: 3.968700 ms (FindLiveObjects: 0.252100 ms CreateObjectMapping: 0.291600 ms MarkObjects: 2.534000 ms  DeleteObjects: 0.888600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.909519 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25de7fe7a38194e4fa5a88214571cd0') in 0.097230 seconds
+  Import took 0.102650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e306e6e86d0b9cf6c13fd567041a3797') in 0.100204 seconds
+  Import took 0.107766 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2490.
+Total: 4.449400 ms (FindLiveObjects: 0.300500 ms CreateObjectMapping: 0.115300 ms MarkObjects: 3.298000 ms  DeleteObjects: 0.733300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.844392 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd607f78d40620d2cf337593216afe083') in 0.128413 seconds
+  Import took 0.135514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5acd56cba50b4e3bcda8c2b0ac881c4') in 0.063885 seconds
+  Import took 0.076657 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2494.
+Total: 2.574300 ms (FindLiveObjects: 0.338500 ms CreateObjectMapping: 0.170100 ms MarkObjects: 1.943100 ms  DeleteObjects: 0.121000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.119028 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b7335c207689c1792e498023d6298e5') in 0.090897 seconds
+  Import took 0.096992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9908783ff5bc36383c4ae073d716d197') in 0.047644 seconds
+  Import took 0.052516 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002723 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.682 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2498.
+Total: 3.949600 ms (FindLiveObjects: 0.307000 ms CreateObjectMapping: 0.138900 ms MarkObjects: 3.234500 ms  DeleteObjects: 0.266900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.511742 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98df7828bea60532faa37fdedd1e536') in 0.105001 seconds
+  Import took 0.112218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd55965f4cb350cd73eafa4b3511c2379') in 0.080823 seconds
+  Import took 0.086508 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.467 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2502.
+Total: 3.912200 ms (FindLiveObjects: 0.412300 ms CreateObjectMapping: 0.119900 ms MarkObjects: 3.205700 ms  DeleteObjects: 0.171600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 238.144289 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3331cf85a83c1557b601859122490e74') in 0.155560 seconds
+  Import took 0.165710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e3b3c503cf327c5ccc882d237180f0') in 0.127084 seconds
+  Import took 0.135798 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007710 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.346 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2506.
+Total: 2.819200 ms (FindLiveObjects: 0.327500 ms CreateObjectMapping: 0.216100 ms MarkObjects: 2.147500 ms  DeleteObjects: 0.126400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.889384 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a9dc9e2cebc2031a34915cfd340e24') in 0.108497 seconds
+  Import took 0.115394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff7aa06399a8cd5028816ae7bb5790a') in 0.066143 seconds
+  Import took 0.071248 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007752 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.561 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2510.
+Total: 5.429200 ms (FindLiveObjects: 0.668000 ms CreateObjectMapping: 0.231000 ms MarkObjects: 4.193400 ms  DeleteObjects: 0.334400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.892035 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a51dbe59df4a97355ef9418af0eb7e') in 0.130189 seconds
+  Import took 0.137085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6672c3dfb0d30b283866de6778c6201') in 0.068017 seconds
+  Import took 0.078524 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.457 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.9 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2514.
+Total: 8.392000 ms (FindLiveObjects: 0.376100 ms CreateObjectMapping: 0.179200 ms MarkObjects: 2.080800 ms  DeleteObjects: 5.753900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.330745 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f771dfe09a9515bc57aa0acff4e461e2') in 0.109119 seconds
+  Import took 0.115334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b2214ed3f766dbe981d3eeeb137e69') in 0.072439 seconds
+  Import took 0.078302 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008440 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.435 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2518.
+Total: 2.721800 ms (FindLiveObjects: 0.367900 ms CreateObjectMapping: 0.182900 ms MarkObjects: 2.047500 ms  DeleteObjects: 0.121700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.830592 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f28b22c0b79623f64ed5b4542e57a6b5') in 0.147820 seconds
+  Import took 0.152240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '107703b1a50437bad4564039972a0851') in 0.069219 seconds
+  Import took 0.074994 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.285 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2522.
+Total: 3.142500 ms (FindLiveObjects: 0.320500 ms CreateObjectMapping: 0.139900 ms MarkObjects: 2.443800 ms  DeleteObjects: 0.236600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.752966 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980595a9f740b6ec8ae0613f6e2cd1e1') in 0.136942 seconds
+  Import took 0.143274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32330f1c2c8c8c206b5afc2462d7425') in 0.075708 seconds
+  Import took 0.081080 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007045 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.213 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2526.
+Total: 12.622300 ms (FindLiveObjects: 0.455200 ms CreateObjectMapping: 0.363800 ms MarkObjects: 4.258300 ms  DeleteObjects: 7.542800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.678121 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef38dce32b91e4c2fc0f97422f7b26a') in 0.157883 seconds
+  Import took 0.165054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000962 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e63b73d8bf711726f9288f73c848cb8') in 0.095233 seconds
+  Import took 0.103242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005803 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e63b73d8bf711726f9288f73c848cb8') in 0.063154 seconds
+  Import took 0.068924 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015686 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.293 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2530.
+Total: 5.113700 ms (FindLiveObjects: 0.421400 ms CreateObjectMapping: 0.169900 ms MarkObjects: 4.343400 ms  DeleteObjects: 0.176600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.148666 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d909c412ca0a08a6c1d176e8137bb87') in 0.230938 seconds
+  Import took 0.241265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000736 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10aadf1741cc85e77b8ebf7ab7081278') in 0.076255 seconds
+  Import took 0.086736 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003942 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.296 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2534.
+Total: 3.391900 ms (FindLiveObjects: 0.502700 ms CreateObjectMapping: 0.201700 ms MarkObjects: 2.530000 ms  DeleteObjects: 0.154400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.287213 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b345ddd487746ed0545f149959e6607') in 0.108216 seconds
+  Import took 0.117650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f966fcd3023f6be7f8db2dafdae505b') in 0.069521 seconds
+  Import took 0.080399 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004796 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2538.
+Total: 3.558800 ms (FindLiveObjects: 0.483900 ms CreateObjectMapping: 0.301400 ms MarkObjects: 2.627800 ms  DeleteObjects: 0.143500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.919562 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a21852e2dfd7f85cdd7cd11a6dab69') in 0.121483 seconds
+  Import took 0.128051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258345ad85e638480daf3b66c07abce0') in 0.058724 seconds
+  Import took 0.063379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.694 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.0 MB.
+System memory in use after: 96.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2542.
+Total: 3.782600 ms (FindLiveObjects: 0.406900 ms CreateObjectMapping: 0.128900 ms MarkObjects: 3.069300 ms  DeleteObjects: 0.174100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.214791 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f42b6c47c619013cdfc8a400889cdd') in 0.137188 seconds
+  Import took 0.145130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8edd42d23c58e2e3dda652972b247c77') in 0.063804 seconds
+  Import took 0.070010 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.021965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.181 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2546.
+Total: 5.766400 ms (FindLiveObjects: 0.913300 ms CreateObjectMapping: 0.320500 ms MarkObjects: 3.658600 ms  DeleteObjects: 0.871600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.215656 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36825b288b4b4fcae070d916c09ddf4e') in 0.145073 seconds
+  Import took 0.157589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34515b4dcaaffa4ed0baabc86f0326d8') in 0.065283 seconds
+  Import took 0.073304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005343 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34515b4dcaaffa4ed0baabc86f0326d8') in 0.075293 seconds
+  Import took 0.085581 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.195 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2550.
+Total: 4.319700 ms (FindLiveObjects: 0.584800 ms CreateObjectMapping: 0.301400 ms MarkObjects: 3.294400 ms  DeleteObjects: 0.136600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.376699 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '723c71614084ca1a1e1b7cca48bb49fc') in 0.108796 seconds
+  Import took 0.116084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001574 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df1cf7d96b07e0d98af5086cd533b47') in 0.091928 seconds
+  Import took 0.103516 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009997 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.249 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2554.
+Total: 3.140800 ms (FindLiveObjects: 0.572200 ms CreateObjectMapping: 0.121500 ms MarkObjects: 2.296300 ms  DeleteObjects: 0.145200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.272841 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f04369e441e29d99435dbd0bfa6d1cf') in 0.141963 seconds
+  Import took 0.148257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a32d0108fe0b5408ca626c3b71d5d00') in 1.017035 seconds
+  Import took 1.026229 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006941 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.148 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1960 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 7.938000 ms (FindLiveObjects: 1.008100 ms CreateObjectMapping: 0.902800 ms MarkObjects: 5.769000 ms  DeleteObjects: 0.255600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.218827 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b23efae035a32aeff0ab4f1745b1d5') in 0.420614 seconds
+  Import took 0.433173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc88d944fb866b330fab3712efd4b73') in 0.173711 seconds
+  Import took 0.199279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.359319 seconds.
+  path: Assets/LoganController.cs
+  artifactKey: Guid(7741b38353422dc418100a821cf22a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LoganController.cs using Guid(7741b38353422dc418100a821cf22a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db24bb06c0f7c8c7b4115690bb08792a') in 0.570711 seconds
+  Import took 0.618410 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004265 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.101 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2563.
+Total: 3.651400 ms (FindLiveObjects: 0.327800 ms CreateObjectMapping: 0.098000 ms MarkObjects: 2.254400 ms  DeleteObjects: 0.969000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.985144 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e53217169f99f6e32d5d41250c762d0') in 0.090562 seconds
+  Import took 0.096352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002de8fdb990730ebce8f46305f07210') in 0.061595 seconds
+  Import took 0.067066 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.020 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2567.
+Total: 3.170000 ms (FindLiveObjects: 0.460800 ms CreateObjectMapping: 0.125300 ms MarkObjects: 2.433300 ms  DeleteObjects: 0.147800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 173.480312 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1707410e76d10f00d02fb2563797aa79') in 0.113718 seconds
+  Import took 0.120441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f97554237680645038a5a2324b4babe') in 0.048349 seconds
+  Import took 0.053735 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003874 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.354 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 2.464500 ms (FindLiveObjects: 0.232900 ms CreateObjectMapping: 0.098900 ms MarkObjects: 1.986400 ms  DeleteObjects: 0.144800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.207744 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f8873f309bae95de7ec8cd341baf35') in 0.093284 seconds
+  Import took 0.098208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bedf43a75ff00bafd5ed5518936c37') in 0.067725 seconds
+  Import took 0.074519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 361.996269 seconds.
+  path: Assets/Logan_Body.controller
+  artifactKey: Guid(2d85fbce0613b554db895203276041e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan_Body.controller using Guid(2d85fbce0613b554db895203276041e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202933b38e3e3ec07fa9fa0b7c136305') in 0.053974 seconds
+  Import took 0.064541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.533807 seconds.
+  path: Assets/suRyong.anim
+  artifactKey: Guid(2b96e7ab78f84984b9804953f3a923b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/suRyong.anim using Guid(2b96e7ab78f84984b9804953f3a923b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9a4fe1f84cbfa1d537e0da2159b84d') in 0.094671 seconds
+  Import took 0.110907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001147 seconds.
+  path: Assets/suRyong.anim
+  artifactKey: Guid(2b96e7ab78f84984b9804953f3a923b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/suRyong.anim using Guid(2b96e7ab78f84984b9804953f3a923b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9a4fe1f84cbfa1d537e0da2159b84d') in 0.034820 seconds
+  Import took 0.046505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.912245 seconds.
+  path: Assets/logan.anim
+  artifactKey: Guid(bacedd759927ff4469e7353b8756f35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/logan.anim using Guid(bacedd759927ff4469e7353b8756f35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57d9aea114358ec1888359f8b9243a14') in 0.023948 seconds
+  Import took 0.032544 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.778 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 2.469800 ms (FindLiveObjects: 0.297400 ms CreateObjectMapping: 0.121200 ms MarkObjects: 1.921100 ms  DeleteObjects: 0.128500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.566754 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '293cc716103731e5ea1ab2454ca6eeac') in 0.092509 seconds
+  Import took 0.098174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc55b5d842c1fa3e37fccf5ab16e45b4') in 0.071547 seconds
+  Import took 0.076273 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.439 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2579.
+Total: 5.771600 ms (FindLiveObjects: 0.590700 ms CreateObjectMapping: 0.262000 ms MarkObjects: 4.675100 ms  DeleteObjects: 0.240400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.047506 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d64801529002ee6c07bcb207dde38c') in 0.112152 seconds
+  Import took 0.118499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26d93e1d93f22d04d5d4bd228894de7') in 0.080001 seconds
+  Import took 0.091408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013873 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  6.053 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.2 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2583.
+Total: 6.132500 ms (FindLiveObjects: 1.510900 ms CreateObjectMapping: 0.289600 ms MarkObjects: 4.062700 ms  DeleteObjects: 0.263200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.264024 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77117612cd9c7bfaeb677b2133edf834') in 0.241214 seconds
+  Import took 0.254556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000888 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df4ba972f676dc994257de02941f70c') in 0.076393 seconds
+  Import took 0.086456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004937 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.073 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2587.
+Total: 4.323900 ms (FindLiveObjects: 0.348600 ms CreateObjectMapping: 0.130600 ms MarkObjects: 3.666100 ms  DeleteObjects: 0.176500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.649722 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2c2481fd931da926f800fef59256a2') in 0.096735 seconds
+  Import took 0.107770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3d63557d87a5919683041e4f05a955') in 0.067390 seconds
+  Import took 0.072730 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003977 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.21 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2591.
+Total: 6.521100 ms (FindLiveObjects: 0.308900 ms CreateObjectMapping: 0.183500 ms MarkObjects: 5.304800 ms  DeleteObjects: 0.718700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.714297 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1408e93e9072eddbddd2dc497ddcfce2') in 0.207008 seconds
+  Import took 0.216921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001923 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06f5ae74ff02fa12f7c2d1c98224d4c') in 0.114794 seconds
+  Import took 0.128205 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.323 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2595.
+Total: 24.479400 ms (FindLiveObjects: 0.487400 ms CreateObjectMapping: 3.471300 ms MarkObjects: 20.202500 ms  DeleteObjects: 0.314900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.839273 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece8eec61a2fb2a260b3dce2266b884a') in 0.583394 seconds
+  Import took 0.591056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fa033052f61436db56413c010053ca') in 0.061432 seconds
+  Import took 0.066618 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004327 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.827 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2599.
+Total: 3.220500 ms (FindLiveObjects: 0.316200 ms CreateObjectMapping: 0.112800 ms MarkObjects: 2.652900 ms  DeleteObjects: 0.137200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.790563 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e84841675206138c14bbf5cbfb252cd') in 0.101551 seconds
+  Import took 0.106173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085358 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc009fa50e6e3802e707eb833293b31d') in 0.065901 seconds
+  Import took 0.072804 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004595 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.904 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2603.
+Total: 2.852300 ms (FindLiveObjects: 0.563900 ms CreateObjectMapping: 0.205100 ms MarkObjects: 1.951100 ms  DeleteObjects: 0.130000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.922701 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17425c88fdcc7c2cc0da9d3e7c9be107') in 0.085776 seconds
+  Import took 0.090576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99fbb4e7e686a484a388dad71d63faa2') in 0.051143 seconds
+  Import took 0.060204 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.025900 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.143 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2607.
+Total: 8.212800 ms (FindLiveObjects: 0.426700 ms CreateObjectMapping: 0.256200 ms MarkObjects: 6.825100 ms  DeleteObjects: 0.702700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.786083 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab73a5648205de661545faf8028d79af') in 0.240621 seconds
+  Import took 0.251991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001218 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27c1d8348d77ec39046790de7fe5e63') in 0.070991 seconds
+  Import took 0.078666 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005813 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.155 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2611.
+Total: 7.297700 ms (FindLiveObjects: 0.854400 ms CreateObjectMapping: 0.482100 ms MarkObjects: 5.066300 ms  DeleteObjects: 0.890700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.843836 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfdadf9102342f351c951b36c25d9632') in 0.218366 seconds
+  Import took 0.232124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd57004fac9cc8c0a8642ad4ce425b6e') in 0.065096 seconds
+  Import took 0.075570 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006925 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.340 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2615.
+Total: 2.939500 ms (FindLiveObjects: 0.441400 ms CreateObjectMapping: 0.137100 ms MarkObjects: 2.204600 ms  DeleteObjects: 0.154500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 253.734181 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0371dbcda48a7622bbb42f4afd27ac7') in 0.097246 seconds
+  Import took 0.102806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1eb563b98871844d99e1cad889e9fb') in 0.059861 seconds
+  Import took 0.066007 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.3 MB.
+System memory in use after: 96.3 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2619.
+Total: 7.852900 ms (FindLiveObjects: 0.760700 ms CreateObjectMapping: 0.310700 ms MarkObjects: 6.303200 ms  DeleteObjects: 0.473000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.751344 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe936a18dee2a15938e4dec5bc50ba75') in 0.195955 seconds
+  Import took 0.212370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52bae1d588a7c895712dedd059417248') in 0.065649 seconds
+  Import took 0.077504 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.061 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2623.
+Total: 6.413100 ms (FindLiveObjects: 0.452600 ms CreateObjectMapping: 0.176600 ms MarkObjects: 5.591500 ms  DeleteObjects: 0.190300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 725.505038 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1502c8e41cb50c114175ed7e7d53912f') in 0.234343 seconds
+  Import took 0.244316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadd7dc5020dce3511de7dc61d0a1d8c') in 0.118190 seconds
+  Import took 0.129446 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.027041 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in 17.664 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1961 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 15.753200 ms (FindLiveObjects: 5.986300 ms CreateObjectMapping: 0.371900 ms MarkObjects: 5.693300 ms  DeleteObjects: 3.687900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 419.229957 seconds.
+  path: Assets/Logan.png
+  artifactKey: Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan.png using Guid(935d3fdbbf5f0ab428406a807033bc6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b5e32c11570bc09992db93a8b82c10') in 1.886094 seconds
+  Import took 1.937870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/수룡이.png
+  artifactKey: Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/수룡이.png using Guid(c3a4c9504d6e07141b53cc134293c23f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9cc82a6b41a9a12a875e2afec77624') in 1.112869 seconds
+  Import took 1.155452 seconds .
+
